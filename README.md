@@ -20,3 +20,7 @@ pytest projects/25-recommender -q
 - precision@k and catalogue coverage, not just 'it looks right'
 - Popularity baseline included because it is hard to beat
 - Unknown users return empty lists instead of crashing
+
+## Repository
+- GitHub: https://github.com/{owner}/recommender-system
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
